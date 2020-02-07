@@ -1,0 +1,5 @@
+C:\Users\Dell\source\repos\DemoOnIndex\bin\Debug\DemoOnIndex.exe.config
+C:\Users\Dell\source\repos\DemoOnIndex\bin\Debug\DemoOnIndex.exe
+C:\Users\Dell\source\repos\DemoOnIndex\bin\Debug\DemoOnIndex.pdb
+C:\Users\Dell\source\repos\DemoOnIndex\obj\Debug\DemoOnIndex.exe
+C:\Users\Dell\source\repos\DemoOnIndex\obj\Debug\DemoOnIndex.pdb

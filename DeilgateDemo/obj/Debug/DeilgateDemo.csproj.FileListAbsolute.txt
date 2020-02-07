@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\DeilgateDemo\bin\Debug\DeilgateDemo.exe.config
+C:\Users\Dell\source\repos\DeilgateDemo\bin\Debug\DeilgateDemo.exe
+C:\Users\Dell\source\repos\DeilgateDemo\bin\Debug\DeilgateDemo.pdb
+C:\Users\Dell\source\repos\DeilgateDemo\obj\Debug\DeilgateDemo.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\DeilgateDemo\obj\Debug\DeilgateDemo.exe
+C:\Users\Dell\source\repos\DeilgateDemo\obj\Debug\DeilgateDemo.pdb

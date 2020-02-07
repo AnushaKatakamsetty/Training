@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\ArrayAssignment1\bin\Debug\ArrayAssignment1.exe.config
+C:\Users\Dell\source\repos\ArrayAssignment1\bin\Debug\ArrayAssignment1.exe
+C:\Users\Dell\source\repos\ArrayAssignment1\bin\Debug\ArrayAssignment1.pdb
+C:\Users\Dell\source\repos\ArrayAssignment1\obj\Debug\ArrayAssignment1.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\ArrayAssignment1\obj\Debug\ArrayAssignment1.exe
+C:\Users\Dell\source\repos\ArrayAssignment1\obj\Debug\ArrayAssignment1.pdb

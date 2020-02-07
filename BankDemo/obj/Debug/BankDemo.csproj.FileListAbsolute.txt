@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\BankDemo\bin\Debug\BankDemo.exe.config
+C:\Users\Dell\source\repos\BankDemo\bin\Debug\BankDemo.exe
+C:\Users\Dell\source\repos\BankDemo\bin\Debug\BankDemo.pdb
+C:\Users\Dell\source\repos\BankDemo\obj\Debug\BankDemo.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\BankDemo\obj\Debug\BankDemo.exe
+C:\Users\Dell\source\repos\BankDemo\obj\Debug\BankDemo.pdb

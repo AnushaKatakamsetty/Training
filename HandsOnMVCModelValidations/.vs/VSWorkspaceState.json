@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Views",
+    "\\Views\\User",
+    "\\wwwroot",
+    "\\wwwroot\\js",
+    "\\wwwroot\\lib",
+    "\\wwwroot\\lib\\jquery",
+    "\\wwwroot\\lib\\jquery-validation",
+    "\\wwwroot\\lib\\jquery-validation\\dist",
+    "\\wwwroot\\lib\\jquery\\dist"
+  ],
+  "SelectedNode": "\\HandsOnMVCModelValidations.csproj",
+  "PreviewInSolutionExplorer": false
+}

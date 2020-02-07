@@ -1,0 +1,44 @@
+﻿@model IEnumerable<SellerMvc.Models.Seller>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <table>
+        <tr>
+            <td>ID</td>
+            <td>SellerName</td>
+            <td>Password</td>
+            <td>CompanyName</td>
+            <td>GSTIN</td>
+            <td>AboutCompany</td>
+            <td>Address</td>
+            <td>Website</td>
+            <td>EmailId</td>
+            <td>MobioleNo</td>
+        </tr>
+        @foreach (var e in Model)
+        {
+    <tr>
+        <td>@e.sid</td>
+        <td>@e.sname</td>
+        <td>@e.spassword</td>
+        <td>@e.scompanyname</td>
+        <td>@e.sgstin</td>
+        <td>@e.saboucompany</td>
+        <td>@e.saddress</td>
+        <td>@e.swebsite</td>
+        <td>@e.semailid</td>
+        <td>@e.smobileno</td>
+    </tr>
+        }
+    </table>
+</body>
+</html>

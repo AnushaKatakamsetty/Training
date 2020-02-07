@@ -1,0 +1,70 @@
+﻿@model EMartCaseStudyMVC.Models.Seller
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1></h1>
+
+<h4></h4>
+<hr />
+
+<div>
+    <a asp-action="~/Seller/Register"></a>
+</div>
+<nav class="navbar navbar-expand-md navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+
+    <div class="container">
+        <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index"><img src="~/images/emart.png" height="60" width="100" /></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
+            <ul class="navbar-nav flex-grow-1">
+                <li class="nav-item">
+                    <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">view</a>
+                </li>
+            </ul>
+        </div>
+        <div class="topnav">
+            <input type="text" placeholder="Search..">
+        </div>
+        <div class="btn-group">
+            <button type="button" class="btn btn-light">Login</button>
+            <button type="button" class="btn btn-danger dropdown-toggle px-3" data-toggle="dropdown" aria-haspopup="true"
+                    aria-expanded="false">
+                <span class="sr-only">Toggle Dropdown</span>
+            </button>
+            <div class="dropdown-menu">
+                <a class="dropdown-item" asp-action="Login" asp-controller="Buyer">BUYER</a>
+                <a class="dropdown-item" asp-action="Login" asp-controller="Seller">SELLER</a>
+                <a class="dropdown-item" href="#">ADMIN</a>
+
+            </div>
+        </div>
+        <!-- Split button -->
+        <div class="col-1"></div>
+        <div class="btn-group">
+            <button type="button" class="btn btn-danger">Registration</button>
+            <button type="button" class="btn btn-danger dropdown-toggle px-3" data-toggle="dropdown" aria-haspopup="true"
+                    aria-expanded="false">
+                <span class="sr-only">Toggle Dropdown</span>
+            </button>
+            <div class="dropdown-menu">
+                <a class="dropdown-item" asp-action="Registration" asp-controller="Buyer">BUYER</a>
+                <a class="dropdown-item" asp-action="Registration" asp-controller="Seller">SELLER</a>
+                <a class="dropdown-item" href="#">ADMIN</a>
+
+            </div>
+        </div>
+
+    </div>
+</nav>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\ExceptionHandlingDemo\bin\Debug\ExceptionHandlingDemo.exe.config
+C:\Users\Dell\source\repos\ExceptionHandlingDemo\bin\Debug\ExceptionHandlingDemo.exe
+C:\Users\Dell\source\repos\ExceptionHandlingDemo\bin\Debug\ExceptionHandlingDemo.pdb
+C:\Users\Dell\source\repos\ExceptionHandlingDemo\obj\Debug\ExceptionHandlingDemo.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\ExceptionHandlingDemo\obj\Debug\ExceptionHandlingDemo.exe
+C:\Users\Dell\source\repos\ExceptionHandlingDemo\obj\Debug\ExceptionHandlingDemo.pdb

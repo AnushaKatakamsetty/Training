@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\PatternsDemo\obj\Debug\PatternsDemo.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\PatternsDemo\bin\Debug\PatternsDemo.exe.config
+C:\Users\Dell\source\repos\PatternsDemo\bin\Debug\PatternsDemo.exe
+C:\Users\Dell\source\repos\PatternsDemo\bin\Debug\PatternsDemo.pdb
+C:\Users\Dell\source\repos\PatternsDemo\obj\Debug\PatternsDemo.exe
+C:\Users\Dell\source\repos\PatternsDemo\obj\Debug\PatternsDemo.pdb

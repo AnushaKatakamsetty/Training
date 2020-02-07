@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\DynamicPoliAssi\bin\Debug\DynamicPoliAssi.exe.config
+C:\Users\Dell\source\repos\DynamicPoliAssi\bin\Debug\DynamicPoliAssi.exe
+C:\Users\Dell\source\repos\DynamicPoliAssi\bin\Debug\DynamicPoliAssi.pdb
+C:\Users\Dell\source\repos\DynamicPoliAssi\obj\Debug\DynamicPoliAssi.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\DynamicPoliAssi\obj\Debug\DynamicPoliAssi.exe
+C:\Users\Dell\source\repos\DynamicPoliAssi\obj\Debug\DynamicPoliAssi.pdb

@@ -1,0 +1,60 @@
+﻿@model User
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+@using (Html.BeginForm())
+{
+<table class="table table-bordered">
+    <tr>
+        <td>
+            Name
+        </td>
+       
+        <td>@Html.TextBoxFor(m => m.Name)</td>
+        <td>@Html.ValidationMessageFor(m => m.Name)</td>
+    </tr>
+    <tr>
+        <td>
+            Email
+        </td>
+        <td>@Html.TextBoxFor(m => m.Email)</td>
+        <td>@Html.ValidationMessageFor(m => m.Email)</td>
+
+    </tr>
+    <tr>
+        <td>
+            DOB
+        </td>
+
+        <td>@Html.TextBoxFor(m => m.DOB,null,new { @type="Date"})</td>
+        <td>@Html.ValidationMessageFor(m => m.DOB)</td>
+    </tr>
+    <tr>
+        <td>
+            Country
+        </td>
+        @*<td>@Html.DropDownListFor(m => m.Country,new SelectList(new string[] { "India", "America","Canada","Africa"}))</td>*@
+        <td>@Html.DropDownListFor(m => m.Country,ViewBag.country as SelectList,"Select Country")</td>
+        <td>@Html.ValidationMessageFor(m => m.Country)</td>
+    </tr>
+    <tr>
+        <td>
+            UserName
+        </td>
+        <td>@Html.TextBoxFor(m => m.UserName)</td>
+        <td>@Html.ValidationMessageFor(m => m.UserName)</td>
+    </tr>
+    <tr>
+        <td>
+            Password
+        </td>
+        <td>@Html.PasswordFor(m=>m.Password)</td>
+        <td>@Html.ValidationMessageFor(m => m.Password)</td>
+    </tr>
+    <tr>
+        <td colspan="2"><input type="submit" value="Register" /> </td>
+    </tr>
+</table>
+}

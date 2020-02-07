@@ -1,0 +1,26 @@
+﻿@model EmployeeProject
+@*@{ 
+    Layout = "null";
+}*@
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>AboutEmployee</title>
+</head>
+<body>
+    <table border="1">
+        <tr>
+            <td>id</td>
+            <td>name</td>
+            <td>dept</td>
+        </tr>
+            <tr>
+                <td>@Model.employeee.id</td>
+                <td>@Model.employeee.name</td>
+                <td>@Model.employeee.Dept</td>
+                <td>@Model.ProjectName</td>
+            </tr>
+        
+    </table>
+</body>
+</html>

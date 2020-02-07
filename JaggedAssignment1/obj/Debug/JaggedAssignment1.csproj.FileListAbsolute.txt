@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\JaggedAssignment1\bin\Debug\JaggedAssignment1.exe.config
+C:\Users\Dell\source\repos\JaggedAssignment1\bin\Debug\JaggedAssignment1.exe
+C:\Users\Dell\source\repos\JaggedAssignment1\bin\Debug\JaggedAssignment1.pdb
+C:\Users\Dell\source\repos\JaggedAssignment1\obj\Debug\JaggedAssignment1.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\JaggedAssignment1\obj\Debug\JaggedAssignment1.exe
+C:\Users\Dell\source\repos\JaggedAssignment1\obj\Debug\JaggedAssignment1.pdb

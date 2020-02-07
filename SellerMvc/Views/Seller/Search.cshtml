@@ -1,0 +1,43 @@
+﻿@model SellerMvc.Models.Seller
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Search</title>
+</head>
+<body>
+    <table>
+        <tr>
+            <td>ID</td>
+            <td>SellerName</td>
+            <td>Password</td>
+            <td>CompanyName</td>
+            <td>GSTIN</td>
+            <td>AboutCompany</td>
+            <td>Address</td>
+            <td>Website</td>
+            <td>EmailId</td>
+            <td>MobioleNo</td>
+        </tr>
+        <tr>
+            <td>@Model.sid</td>
+            <td>@Model.sname</td>
+            <td>@Model.spassword</td>
+            <td>@Model.scompanyname</td>
+            <td>@Model.sgstin</td>
+            <td>@Model.saboucompany</td>
+            <td>@Model.saddress</td>
+            <td>@Model.swebsite</td>
+            <td>@Model.semailid</td>
+            <td>@Model.smobileno</td>
+        </tr>
+        
+    </table>
+
+</body>
+</html>

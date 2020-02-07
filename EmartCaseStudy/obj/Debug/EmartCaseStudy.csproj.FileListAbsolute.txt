@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\EmartCaseStudy\bin\Debug\EmartCaseStudy.exe.config
+C:\Users\Dell\source\repos\EmartCaseStudy\bin\Debug\EmartCaseStudy.exe
+C:\Users\Dell\source\repos\EmartCaseStudy\bin\Debug\EmartCaseStudy.pdb
+C:\Users\Dell\source\repos\EmartCaseStudy\obj\Debug\EmartCaseStudy.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\EmartCaseStudy\obj\Debug\EmartCaseStudy.exe
+C:\Users\Dell\source\repos\EmartCaseStudy\obj\Debug\EmartCaseStudy.pdb

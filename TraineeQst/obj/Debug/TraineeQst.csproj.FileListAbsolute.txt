@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\TraineeQst\bin\Debug\TraineeQst.exe.config
+C:\Users\Dell\source\repos\TraineeQst\bin\Debug\TraineeQst.exe
+C:\Users\Dell\source\repos\TraineeQst\bin\Debug\TraineeQst.pdb
+C:\Users\Dell\source\repos\TraineeQst\obj\Debug\TraineeQst.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\TraineeQst\obj\Debug\TraineeQst.exe
+C:\Users\Dell\source\repos\TraineeQst\obj\Debug\TraineeQst.pdb

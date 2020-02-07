@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\DesignPatterns\obj\Debug\DesignPatterns.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\DesignPatterns\bin\Debug\DesignPatterns.exe.config
+C:\Users\Dell\source\repos\DesignPatterns\bin\Debug\DesignPatterns.exe
+C:\Users\Dell\source\repos\DesignPatterns\bin\Debug\DesignPatterns.pdb
+C:\Users\Dell\source\repos\DesignPatterns\obj\Debug\DesignPatterns.exe
+C:\Users\Dell\source\repos\DesignPatterns\obj\Debug\DesignPatterns.pdb

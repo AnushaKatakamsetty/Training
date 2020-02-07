@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <h1 id="ref">id</h1>
+    <br/>
+    <h2></h2>
+    <h2></h2>
+    <h3 id="n1">ref of n1</h3>
+    <h5 name="nm"> ref of name</h5>
+    <h1 class="ref1">ref of class</h1>
+    <script type="text/javascript">
+        alert("hello world!");
+        console.log("hii");
+        var length = 10;
+        var name = "JavaScript";
+        var student = { name: "anu", age: 22, id: 89 };
+        document.getElementById("ref").innerHTML = student;
+         document.getElementById("ref").innerHTML = student.age;
+        document.getElementById("n1").innerHTML = name + " " + length;
+        document.getElementsByClassName("ref1").innerHTML="class output";
+        document.getElementsByName("nm").innerHTML="Anusha";
+        document.getElementsByTagName("h2")[0].innerHTML="chennai";
+
+    </script>
+</body>
+</html>

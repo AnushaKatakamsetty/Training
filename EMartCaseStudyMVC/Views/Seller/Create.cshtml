@@ -1,0 +1,107 @@
+﻿@model EMartCaseStudyMVC.Models.Seller
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Seller</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="sid" class="control-label"></label>
+                <input asp-for="sid" class="form-control" />
+                <span asp-validation-for="sid" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="sname" class="control-label"></label>
+                <input asp-for="sname" class="form-control" />
+                <span asp-validation-for="sname" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="spassword" class="control-label"></label>
+                <input asp-for="spassword" class="form-control" />
+                <span asp-validation-for="spassword" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="scompanyname" class="control-label"></label>
+                <input asp-for="scompanyname" class="form-control" />
+                <span asp-validation-for="scompanyname" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="sgstin" class="control-label"></label>
+                <input asp-for="sgstin" class="form-control" />
+                <span asp-validation-for="sgstin" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="saboucompany" class="control-label"></label>
+                <input asp-for="saboucompany" class="form-control" />
+                <span asp-validation-for="saboucompany" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="saddress" class="control-label"></label>
+                <input asp-for="saddress" class="form-control" />
+                <span asp-validation-for="saddress" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="swebsite" class="control-label"></label>
+                <input asp-for="swebsite" class="form-control" />
+                <span asp-validation-for="swebsite" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="semailid" class="control-label"></label>
+                <input asp-for="semailid" class="form-control" />
+                <span asp-validation-for="semailid" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="smobileno" class="control-label"></label>
+                <input asp-for="smobileno" class="form-control" />
+                <span asp-validation-for="smobileno" class="text-danger"></span>
+            </div>
+
+            @*  asp-for tag helper is set to "Photo" property. "Photo" property type is IFormFile
+        so at runtime asp.net core generates file upload control (input type=file)
+            *@
+
+            <div class="form-group row">
+
+                <label asp-for="PhotoPath" class="col-sm-2 col-form-label"></label>
+                <div class="col-sm-10">
+                    <div class="custom-file">
+                        <input asp-for="PhotoPath" class="form-control custom-file-input">
+                        <label class="custom-file-label">Choose File...</label>
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+
+            @*This script is required to display the selected file in the file upload element*@
+
+            @section Scripts {
+                <script>
+                    $(document).ready(function () {
+                        $('.custom-file-input').on("change", function () {
+                            var fileName = $(this).val().split("\\").pop();
+                            $(this).next('.custom-file-label').html(fileName);
+                        });
+                    });
+                </script>
+            }
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@*@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}*@

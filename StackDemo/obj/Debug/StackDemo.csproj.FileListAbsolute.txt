@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\StackDemo\bin\Debug\StackDemo.exe.config
+C:\Users\Dell\source\repos\StackDemo\bin\Debug\StackDemo.exe
+C:\Users\Dell\source\repos\StackDemo\bin\Debug\StackDemo.pdb
+C:\Users\Dell\source\repos\StackDemo\obj\Debug\StackDemo.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\StackDemo\obj\Debug\StackDemo.exe
+C:\Users\Dell\source\repos\StackDemo\obj\Debug\StackDemo.pdb

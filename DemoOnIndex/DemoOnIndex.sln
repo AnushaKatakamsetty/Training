@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoOnIndex", "DemoOnIndex.csproj", "{03EA1A3A-5C1B-483F-B6C5-2CEE5FC917AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03EA1A3A-5C1B-483F-B6C5-2CEE5FC917AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03EA1A3A-5C1B-483F-B6C5-2CEE5FC917AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03EA1A3A-5C1B-483F-B6C5-2CEE5FC917AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03EA1A3A-5C1B-483F-B6C5-2CEE5FC917AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91CE0B6D-8443-4278-B7E5-5CA9160884C2}
+	EndGlobalSection
+EndGlobal

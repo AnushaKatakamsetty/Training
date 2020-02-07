@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\AssignmnetStudent\bin\Debug\AssignmnetStudent.exe.config
+C:\Users\Dell\source\repos\AssignmnetStudent\bin\Debug\AssignmnetStudent.exe
+C:\Users\Dell\source\repos\AssignmnetStudent\bin\Debug\AssignmnetStudent.pdb
+C:\Users\Dell\source\repos\AssignmnetStudent\obj\Debug\AssignmnetStudent.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\AssignmnetStudent\obj\Debug\AssignmnetStudent.exe
+C:\Users\Dell\source\repos\AssignmnetStudent\obj\Debug\AssignmnetStudent.pdb

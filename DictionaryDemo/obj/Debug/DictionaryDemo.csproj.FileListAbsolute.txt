@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\DictionaryDemo\bin\Debug\DictionaryDemo.exe.config
+C:\Users\Dell\source\repos\DictionaryDemo\bin\Debug\DictionaryDemo.exe
+C:\Users\Dell\source\repos\DictionaryDemo\bin\Debug\DictionaryDemo.pdb
+C:\Users\Dell\source\repos\DictionaryDemo\obj\Debug\DictionaryDemo.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\DictionaryDemo\obj\Debug\DictionaryDemo.exe
+C:\Users\Dell\source\repos\DictionaryDemo\obj\Debug\DictionaryDemo.pdb

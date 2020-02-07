@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\InstanceDemo\bin\Debug\InstanceDemo.exe.config
+C:\Users\Dell\source\repos\InstanceDemo\bin\Debug\InstanceDemo.exe
+C:\Users\Dell\source\repos\InstanceDemo\bin\Debug\InstanceDemo.pdb
+C:\Users\Dell\source\repos\InstanceDemo\obj\Debug\InstanceDemo.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\InstanceDemo\obj\Debug\InstanceDemo.exe
+C:\Users\Dell\source\repos\InstanceDemo\obj\Debug\InstanceDemo.pdb
